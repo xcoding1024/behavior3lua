@@ -71,7 +71,7 @@ end
 ![](readme/running.png)
 
 ## 编辑器
-我用阿里的g6图形库开发了一个通用的行为树编辑器，并用electron打包成exe版本，目前还比较简陋，感兴趣的同学可以关注一下 [behavior3editor](https://github.com/zhandouxiaojiji/behavior3editor)
+我用阿里的g6图形库开发了一个通用的行为树编辑器，并用electron打包成exe版本，目前还比较简陋，感兴趣的同学可以关注一下 [behavior3editor](https://github.com/xcoding1024/behavior3editor)
 ![](readme/editor.png)
 
 ## 运行测试用例
